@@ -4,7 +4,7 @@
     <property name="java.specification.version" value="17"/>
     <property name="sun.cpu.isalist" value="amd64"/>
     <property name="sun.jnu.encoding" value="Cp1252"/>
-    <property name="java.class.path" value="C:\Users\danie\Desktop\SKOLA\UTVECKLINGSVERKTYG\Inlämning 2\Library\library\target\test-classes;C:\Users\danie\Desktop\SKOLA\UTVECKLINGSVERKTYG\Inlämning 2\Library\library\target\classes;C:\Users\danie\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\danie\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\danie\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\danie\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\danie\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.1\junit-jupiter-engine-5.9.1.jar;C:\Users\danie\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar;"/>
+    <property name="java.class.path" value="C:\Users\danie\Desktop\SKOLA\UTVECKLINGSVERKTYG\Inlämning 2\maven\library\target\test-classes;C:\Users\danie\Desktop\SKOLA\UTVECKLINGSVERKTYG\Inlämning 2\maven\library\target\classes;C:\Users\danie\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\danie\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\danie\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\danie\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\danie\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.1\junit-jupiter-engine-5.9.1.jar;C:\Users\danie\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar;"/>
     <property name="java.vm.vendor" value="Oracle Corporation"/>
     <property name="sun.arch.data.model" value="64"/>
     <property name="user.variant" value=""/>
@@ -15,9 +15,9 @@
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="user.country" value="SE"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk-17\bin"/>
-    <property name="sun.java.command" value="C:\Users\danie\AppData\Local\Temp\surefire9707457805963118449\surefirebooter12070267442228010548.jar C:\Users\danie\AppData\Local\Temp\surefire9707457805963118449 2024-02-05T09-46-45_340-jvmRun1 surefire14554161012233904353tmp surefire_03634727123411199455tmp"/>
+    <property name="sun.java.command" value="C:\Users\danie\AppData\Local\Temp\surefire12483664560869949430\surefirebooter8299009573462753260.jar C:\Users\danie\AppData\Local\Temp\surefire12483664560869949430 2024-02-12T09-15-54_013-jvmRun1 surefire15428691325013996557tmp surefire_01791478817125247367tmp"/>
     <property name="jdk.debug" value="release"/>
-    <property name="surefire.test.class.path" value="C:\Users\danie\Desktop\SKOLA\UTVECKLINGSVERKTYG\Inlämning 2\Library\library\target\test-classes;C:\Users\danie\Desktop\SKOLA\UTVECKLINGSVERKTYG\Inlämning 2\Library\library\target\classes;C:\Users\danie\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\danie\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\danie\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\danie\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\danie\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.1\junit-jupiter-engine-5.9.1.jar;C:\Users\danie\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar;"/>
+    <property name="surefire.test.class.path" value="C:\Users\danie\Desktop\SKOLA\UTVECKLINGSVERKTYG\Inlämning 2\maven\library\target\test-classes;C:\Users\danie\Desktop\SKOLA\UTVECKLINGSVERKTYG\Inlämning 2\maven\library\target\classes;C:\Users\danie\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.9.1\junit-jupiter-api-5.9.1.jar;C:\Users\danie\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar;C:\Users\danie\.m2\repository\org\junit\platform\junit-platform-commons\1.9.1\junit-platform-commons-1.9.1.jar;C:\Users\danie\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\danie\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.9.1\junit-jupiter-engine-5.9.1.jar;C:\Users\danie\.m2\repository\org\junit\platform\junit-platform-engine\1.9.1\junit-platform-engine-1.9.1.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
     <property name="user.home" value="C:\Users\danie"/>
     <property name="user.language" value="sv"/>
@@ -25,12 +25,12 @@
     <property name="java.version.date" value="2023-10-17"/>
     <property name="java.home" value="C:\Program Files\Java\jdk-17"/>
     <property name="file.separator" value="\"/>
-    <property name="basedir" value="C:\Users\danie\Desktop\SKOLA\UTVECKLINGSVERKTYG\Inlämning 2\Library\library"/>
+    <property name="basedir" value="C:\Users\danie\Desktop\SKOLA\UTVECKLINGSVERKTYG\Inlämning 2\maven\library"/>
     <property name="java.vm.compressedOopsMode" value="Zero based"/>
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\danie\AppData\Local\Temp\surefire9707457805963118449\surefirebooter12070267442228010548.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\danie\AppData\Local\Temp\surefire12483664560869949430\surefirebooter8299009573462753260.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="17.0.9+11-LTS-201"/>
@@ -45,7 +45,7 @@
     <property name="java.io.tmpdir" value="C:\Users\danie\AppData\Local\Temp\"/>
     <property name="idea.version" value="2023.2.5"/>
     <property name="java.version" value="17.0.9"/>
-    <property name="user.dir" value="C:\Users\danie\Desktop\SKOLA\UTVECKLINGSVERKTYG\Inlämning 2\Library\library"/>
+    <property name="user.dir" value="C:\Users\danie\Desktop\SKOLA\UTVECKLINGSVERKTYG\Inlämning 2\maven\library"/>
     <property name="os.arch" value="amd64"/>
     <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
     <property name="sun.os.patch.level" value=""/>

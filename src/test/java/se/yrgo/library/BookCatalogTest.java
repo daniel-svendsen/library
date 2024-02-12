@@ -14,7 +14,7 @@ public class BookCatalogTest {
 
 	public BookCatalogTest() {
 		bc = new BookCatalog();
-		Book book1 = new Book(1,"Learning Java","Author","ISBN1","Branch1",300);
+		book1 = new Book(1,"Learning Java","Author","ISBN1","Branch1",300);
 		bc.addBook(book1);
 	}
 
@@ -28,8 +28,11 @@ public class BookCatalogTest {
 
 	//G
 	@Test
-	public void testFindBook(){
-		assertEquals("Learning Java", "Learning Java");
+	public void testFindBook() throws BookNotFoundException {
+		Book book4 = new Book(2, "Java", "Author2", "ISBN2", "Branch2", 250);
+		bc.addBook(book4);
+
+		assertEquals(book4, bc.findBook("Java"));
 	}
 
 	//G
